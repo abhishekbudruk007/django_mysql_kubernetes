@@ -3,7 +3,7 @@ Django==2.2.5
 gunicorn==19.9.0
 mysql-connector-python==8.0.17
 mysqlclient==1.4.4
-protobuf==3.9.1
+protobuf==3.18.3
 psycopg2-binary
 PyMySQL==0.9.3
 pytz==2019.2
